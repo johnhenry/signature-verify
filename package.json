@@ -1,0 +1,17 @@
+{
+  "name": "signature-verify",
+  "version": "0.0.1",
+  "description": "Verify Digital Signature Information",
+  "keywords": ["digital","signature", "vefify", "verification"],
+  "author": "John Henry <john@iamjohnhenry.com>",
+  "homepage": "https://github.com/johnhenry/signature-verify",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/johnhenry/signature-verify.git"
+  },
+  "main": "index",
+  "engines": {
+      "node"    : "0.10.x",
+      "express" : "0.4.x"
+      }
+}
