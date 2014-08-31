@@ -1,6 +1,6 @@
 {
   "name": "signature-verify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Verify Digital Signature Information",
   "keywords": ["digital","signature", "vefify", "verification"],
   "author": "John Henry <john@iamjohnhenry.com>",
@@ -10,6 +10,9 @@
     "url": "git://github.com/johnhenry/signature-verify.git"
   },
   "main": "index",
+  "dependencies": {
+    "bitauth": "^0.1.1"
+  },
   "engines": {
       "node"    : "0.10.x",
       "express" : "0.4.x"

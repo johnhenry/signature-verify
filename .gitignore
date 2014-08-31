@@ -1,0 +1,8 @@
+# Mac crap
+.DS_Store
+
+# Log Files
+*.log
+
+# Node
+node_modules/
