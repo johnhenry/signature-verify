@@ -1,6 +1,6 @@
 {
   "name": "signature-verify",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Verify Digital Signature Information",
   "keywords": ["digital","signature", "vefify", "verification"],
   "author": "John Henry <john@iamjohnhenry.com>",
